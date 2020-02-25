@@ -4,3 +4,4 @@ The R script plots the heart rate data to compare two devices. The input are CSV
 
 ![Rplot](https://user-images.githubusercontent.com/11890977/75213806-28aa6300-5740-11ea-8df4-b6295f358f1d.png)
 
+I extracted the garmin.csv from garmin.fit using a Python script "FIT_to_CSV_forWin.py" here is the link: https://github.com/rdchip/FIT-to-CSV-converter-for-windows  
