@@ -10,7 +10,7 @@ The garmin.csv comes from the Garmin watch Fenix 5 Plus, which use optic wrist t
 <img src="readme_images/Rplot.png">
 
 
-The Polar H10 work with Polar Beat mobile app and the synchronization is via bluetooth. In the workout session the H10 store bpm data each second but the Fenix 5 store bpm data at different intervals, check the examples files for more details. 
+The Polar H10 work with Polar Beat mobile app and the synchronization is via bluetooth. In the workout session the H10 store bpm data each second but the Fenix 5 stores bpm data at different intervals, check the examples files for more details. 
 
 Definitely, the Polar H10 is better in workout session because the moisture in your skin helps the electrodes to get better contact. And the same moisture have a negative effects on sensor readings. Fortunately, you can synchronize the Fenix 5 with the Polar H10 and even use the Polar Beat app to store your heart rate data.
 
